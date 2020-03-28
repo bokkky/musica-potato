@@ -1,1 +1,1 @@
-# musica-potato
+# musical-potato
